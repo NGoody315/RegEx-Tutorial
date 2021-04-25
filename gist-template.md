@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+This tutorial is to help identify the key compenents and expression used in Regex and how they apply to certain code.
 
 ## Summary
 
